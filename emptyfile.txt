@@ -1,4 +1,4 @@
-This line is added from master
+This line is added from main
 New feature from new-branch-1
 New feature from new-branch-2
 New feature 2 from new-branch-1
